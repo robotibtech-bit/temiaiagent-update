@@ -1,0 +1,7 @@
+{
+  "packageName": "com.ibtech.temiaiagent",
+  "versionCode": 1,
+  "versionName": "1.0",
+  "apkUrl": "https://github.com/robotibtech-bit/temiaiagent-update/releases/download/v1.0/TemiAiAgent-v1.0.apk",
+  "releaseNote": "최초 배포"
+}
