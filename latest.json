@@ -1,7 +1,7 @@
 {
   "packageName": "com.ibtech.temiaiagent",
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apkUrl": "https://github.com/robotibtech-bit/temiaiagent-update/releases/download/v1.0/TemiAiAgent-v1.0.apk",
-  "releaseNote": "최초 배포"
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/robotibtech-bit/temiaiagent-update/releases/download/v1.1/TemiAiAgent-v1.1.apk",
+  "releaseNote": "시흥시청 업무자료 반영, 계단/별관 안내, 안내 확인 시 되짚기, 사람 감지 설정, 화면 개선"
 }
